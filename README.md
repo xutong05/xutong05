@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on counting stars...
 - 💬 You can ask me any questions.
 - 🏠 I am currently in Fairfax, Virginia, US.
-- 📫 How to reach me **tongxu38@gmail.com**
+- 📫 How to reach me **txu25@gmu.edu**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
