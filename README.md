@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tong Xu</h1>
-<h3 align="center">A PhD student at <a href="https://cs.gmu.edu/" target="_blank">George Mason University</a>, advised by Prof. <a href="https://cs.gmu.edu/~xiao/" target="_blank">Xuesu Xiao</a>.</h3>
+<h3 align="center">A PhD student at <a href="https://cs.gmu.edu/" target="_blank">George Mason University</a>, advised by Prof. <a href="https://people.cs.gmu.edu/~xiao/" target="_blank">Xuesu Xiao</a>.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xutong05&label=Profile%20views&color=0e75b6&style=flat" alt="xutong05" /> </p>
 
